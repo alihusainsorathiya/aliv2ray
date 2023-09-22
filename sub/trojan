@@ -1,1 +1,10 @@
-trojan://
+trojan://telegram-id-privatevpns@18.203.1.79:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs| AHS - 136.32
+trojan://telegram-id-directvpn@3.79.121.219:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS - 156.57
+trojan://telegram-id-directvpn@18.156.116.178:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS - 157.47
+trojan://telegram-id-directvpn@16.170.48.174:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN| AHS - 174.32
+trojan://a8c2ef2a-6596-4b9d-ad9c-4a8f1b546dce@h.migmig.sbs:443?fp=chrome&host=h.migmig.sbs&path=%2FecWgPu75ewsDeHNpZGkceZ&security=tls&sni=h.migmig.sbs&type=ws#🏴|@oneclickvpnkeys| AHS - 3.89
+trojan://yZOZ8GWc8K@de.vpncustomize.website:443?alpn=http%2F1.1&fp=safari&headerType=none&security=tls&sni=de.vpncustomize.website&type=tcp#🇺🇸|@prrofile_purple| AHS - 3.18
+trojan://yZOZ8GWc8K@de1.vpncustomize.website:443?alpn=h2&fp=safari&host=de1.connecton.surf&path=%2F&security=tls&sni=de1.vpncustomize.website&type=http#🏴|@prrofile_purple| AHS - 2.64
+trojan://e4bfb6fe1e@de1.connecton.surf:443?alpn=http%2F1.1&headerType=none&security=tls&sni=de1.connecton.surf&type=tcp#🇩🇪|@prrofile_purple| AHS - 284.89
+trojan://yZOZ8GWc8K@de1.vpncustomize.website:443?alpn=h2&host=de1.connecton.surf&path=%2F&security=tls&sni=de1.vpncustomize.website&type=http#🇺🇸|@vmess_vless_v2rayng| AHS - 2.88
+trojan://telegram-id-privatevpns@13.51.61.163:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@ConfigsHUB| AHS - 174.36
