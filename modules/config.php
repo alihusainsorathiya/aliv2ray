@@ -89,7 +89,7 @@ $Types = [
     "iSegaro" => ["vless"],
     "bright_vpn" => ["vless", "ss"],
     "talentvpn" => ["vless"],
-    "proxystore11" => ["vless"],
+    "proxystore11" => ["vless","ss"],
     "vpnsal" => ["vmess", "vless"],
     "vpn_proxy_custom" => ["vless"],
     "Iran_Config" => ["vmess", "vless"],
@@ -101,6 +101,13 @@ $Types = [
     "Argotaz" => ["vmess", "vless"],
     "freeiranweb" => ["vmess", "vless"],
     "hiddifyV2ray" => ["vmess", "vless"],
+    "hope_net" => ["vmess", "vless","ss","trojan"],
+    "yaney_01" => ["vmess", "vless","ss","trojan"],
+    "fnet00" =>  ["vless", "ss"],
+    "azadnet" => ["vmess", "vless","ss","trojan"],
+    "customv2ray" =>  ["vless", "ss"],
+    "freeiranvpn" => ["vmess", "vless"],
+    
 
 ];
 
