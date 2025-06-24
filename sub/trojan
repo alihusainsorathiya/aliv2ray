@@ -1,10 +1,5 @@
-trojan://telegram-id-privatevpns@63.178.112.248:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS - 110.65
-trojan://telegram-id-privatevpns@13.39.130.140:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS - 138.75
-trojan://telegram-id-directvpn@63.178.112.248:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS - 111.5
-trojan://telegram-id-directvpn@13.39.130.140:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS - 101.26
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🏴|@ovpn2| AHS - 2.07
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🇯🇵|@yaney_01| AHS - 382.89
-trojan://
-trojan://trojan@104.18.3.150:443?host=main.xicun.us.kg&security=tls&sni=main.xicun.us.kg&type=ws#🏴|@hope_net| AHS - 3.15
-trojan://Aimer@188.164.159.214:2083?security=tls&sni=agepy.ambercc.filegear-sg.me&type=tcp#🇦🇲|@hope_net| AHS - 1.91
-trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?headerType=none&security=tls&sni=chop-wrist-bud.stark-industries.solutions&type=tcp#🇺🇸|@v2rayngrit| AHS - 100.31
+trojan://telegram-id-privatevpns@63.178.112.248:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS - 91.76
+trojan://telegram-id-directvpn@63.178.112.248:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS - 91.49
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🏴|@ovpn2| AHS - 5.83
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🇯🇵|@yaney_01| AHS - 416.82
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?headerType=none&security=tls&sni=chop-wrist-bud.stark-industries.solutions&type=tcp#🇺🇸|@v2rayngrit| AHS - 86.78
