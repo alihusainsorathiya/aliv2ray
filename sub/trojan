@@ -1,8 +1,13 @@
-trojan://telegram-id-privatevpns@52.29.25.174:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS - 141.59
-trojan://telegram-id-directvpn@52.29.25.174:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS - 145.95
-trojan://6e4e1d7500ff530d@134.195.101.59:443?alpn=h2&security=tls&serviceName=db&sni=TG.WangCai2&type=grpc#🇺🇸|@oneclickvpnkeys| AHS - 19.24
-trojan://6e4e1d7500ff530d@134.195.101.58:443?alpn=h2&security=tls&serviceName=db&sni=TG.WangCai2&type=grpc#🇺🇸|@oneclickvpnkeys| AHS - 18.07
-trojan://D elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&sni=fluxfloss.click&type=tcp#🇦🇪|@oneclickvpnkeys| AHS - 239.37
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🏴|@vmess_vless_v2rayng| AHS - 9.48
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🏴|@ovpn2| AHS - 8.67
-trojan://blue2024@173.245.49.162:443?sni=ta.promote.icu#🇺🇸|@hope_net| AHS - 37.6
+trojan://telegram-id-privatevpns@52.29.25.174:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS - 94.64
+trojan://telegram-id-privatevpns@15.236.136.134:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS - 87.08
+trojan://telegram-id-privatevpns@15.236.72.198:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS - 86.92
+trojan://telegram-id-directvpn@52.29.25.174:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS - 93.32
+trojan://telegram-id-directvpn@15.236.136.134:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS - 86.38
+trojan://telegram-id-directvpn@15.236.72.198:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS - 86.6
+trojan://6e4e1d7500ff530d@134.195.101.59:443?alpn=h2&security=tls&serviceName=db&sni=TG.WangCai2&type=grpc#🇺🇸|@oneclickvpnkeys| AHS - 66.57
+trojan://6e4e1d7500ff530d@134.195.101.58:443?alpn=h2&security=tls&serviceName=db&sni=TG.WangCai2&type=grpc#🇺🇸|@oneclickvpnkeys| AHS - 66.8
+trojan://D elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&sni=fluxfloss.click&type=tcp#🇦🇪|@oneclickvpnkeys| AHS - 176.32
+trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🏴|@vmess_vless_v2rayng| AHS - 9.1
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🏴|@ovpn2| AHS - 5.45
+trojan://slch2024@190.93.247.195:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc&type=ws#🏴|@ConfigsHUB| AHS - 5.73
+trojan://blue2024@173.245.49.162:443?sni=ta.promote.icu#🇺🇸|@hope_net| AHS - 35.17
