@@ -1,12 +1,13 @@
-trojan://telegram-id-privatevpns@18.153.165.93:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS - 142.46
-trojan://telegram-id-privatevpns@13.37.169.179:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS - 136.65
-trojan://telegram-id-privatevpns@13.39.237.30:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS - 136.74
-trojan://telegram-id-directvpn@18.153.165.93:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS - 144.63
-trojan://telegram-id-directvpn@13.37.169.179:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS - 136.58
-trojan://telegram-id-directvpn@13.39.237.30:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS - 133.04
-trojan://D elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&sni=fluxfloss.click&type=tcp#🇦🇪|@oneclickvpnkeys| AHS - 229.55
-trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&security=tls&sni=NOp-55q.pAgEs.dEv&type=ws#🏴|@v2ray1_ng| AHS - 8.54
-trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?PROT_TYPE=trojan&host=azadnet-bdr.pages.dev&path=%2Fazadnet-bdr.pages.dev%2F%3Fed%3D2560&security=tls&sni=azadnet-bdr.pages.dev&type=ws#🏴|@v2ray1_ng| AHS - 9.53
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🏴|@vmess_vless_v2rayng| AHS - 9.35
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🏴|@ovpn2| AHS - 8.61
-trojan://blue2024@www.ddwhm.com:443?allowInsecure=0&sni=ta.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#🇸🇬|@ConfigsHUB| AHS - 21.26
+trojan://telegram-id-privatevpns@18.153.165.93:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS - 108.97
+trojan://telegram-id-privatevpns@13.37.169.179:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS - 104.89
+trojan://telegram-id-privatevpns@13.39.237.30:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS - 104.21
+trojan://telegram-id-directvpn@18.153.165.93:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS - 112.04
+trojan://telegram-id-directvpn@13.37.169.179:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS - 104.31
+trojan://telegram-id-directvpn@13.39.237.30:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS - 104.91
+trojan://D elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&sni=fluxfloss.click&type=tcp#🇦🇪|@oneclickvpnkeys| AHS - 192.6
+trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&security=tls&sni=NOp-55q.pAgEs.dEv&type=ws#🏴|@v2ray1_ng| AHS - 1.48
+trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?PROT_TYPE=trojan&host=azadnet-bdr.pages.dev&path=%2Fazadnet-bdr.pages.dev%2F%3Fed%3D2560&security=tls&sni=azadnet-bdr.pages.dev&type=ws#🏴|@v2ray1_ng| AHS - 2.58
+trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🏴|@vmess_vless_v2rayng| AHS - 2.86
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🏴|@ovpn2| AHS - 2.56
+trojan://auto@104.20.22.170:443?host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws#🏴|@ConfigsHUB| AHS - 1.96
+trojan://blue2024@www.ddwhm.com:443?allowInsecure=0&sni=ta.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#🇸🇬|@hope_net| AHS - 57.35
