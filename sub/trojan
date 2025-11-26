@@ -1,14 +1,9 @@
-trojan://telegram-id-privatevpns@13.39.66.173:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS - 156.86
-trojan://telegram-id-privatevpns@63.184.0.115:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇺🇸|@PrivateVPNs| AHS - 162.26
-trojan://telegram-id-directvpn@13.39.66.173:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS - 148.15
-trojan://telegram-id-directvpn@63.184.0.115:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇺🇸|@DirectVPN| AHS - 154.68
-trojan://telegram-id-directvpn@54.93.35.33:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS - 154.82
-trojan://telegram-id-privatevpns@13.39.66.173:22222?allowInsecure=1&alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@oneclickvpnkeys| AHS - 157.3
-trojan://telegram-id-privatevpns@15.188.206.228:22222?allowInsecure=1&alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@oneclickvpnkeys| AHS - 147.56
-trojan://. QAJot50sDi6mvb@5.188.108.13:11790?allowInsecure=1&security=tls&sni=runningshoes.purpletornado.click&type=tcp#🇵🇱|@oneclickvpnkeys| AHS - 170.48
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093?headerType=none&security=tls&sni=www.nintendogames.net&type=tcp#🇯🇵|@v2ray1_ng| AHS - 105.2
-trojan://c6b96097-fe2d-487d-b9ef-60c994b90db2@36.50.90.241:35951?fp=randomized&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F36.50.90.241%3D35951&security=tls&sni=joss.gpj1.web.id&type=ws#🇭🇰|@v2ray1_ng| AHS - 175.23
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🏴|@vmess_vless_v2rayng| AHS - 2.1
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?headerType=none&security=tls&sni=runningshoes.purpletornado.click&type=tcp#🇵🇱|@VmessProtocol| AHS - 169.64
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🏴|@ovpn2| AHS - 1.49
-trojan://auto@162.159.136.232:8443?allowInsecure=0&sni=e9464f45.trauma-2r4.pages.dev&ws=1&wspath=%2F#🏴|@hope_net| AHS - 1.66
+trojan://telegram-id-privatevpns@63.184.0.115:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇺🇸|@PrivateVPNs| AHS - 141.42
+trojan://telegram-id-directvpn@63.184.0.115:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇺🇸|@DirectVPN| AHS - 140.88
+trojan://. QAJot50sDi6mvb@5.188.108.13:11790?allowInsecure=1&security=tls&sni=runningshoes.purpletornado.click&type=tcp#🇵🇱|@oneclickvpnkeys| AHS - 160.93
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093?headerType=none&security=tls&sni=www.nintendogames.net&type=tcp#🇯🇵|@v2ray1_ng| AHS - 109.77
+trojan://c6b96097-fe2d-487d-b9ef-60c994b90db2@36.50.90.241:35951?fp=randomized&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F36.50.90.241%3D35951&security=tls&sni=joss.gpj1.web.id&type=ws#🇭🇰|@v2ray1_ng| AHS - 182.93
+trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🏴|@vmess_vless_v2rayng| AHS - 9.12
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?headerType=none&security=tls&sni=runningshoes.purpletornado.click&type=tcp#🇵🇱|@VmessProtocol| AHS - 157.18
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🏴|@ovpn2| AHS - 8.69
+trojan://auto@162.159.136.232:8443?allowInsecure=0&sni=e9464f45.trauma-2r4.pages.dev&ws=1&wspath=%2F#🏴|@hope_net| AHS - 8.48
