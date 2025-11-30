@@ -1,13 +1,12 @@
-trojan://telegram-id-privatevpns@63.181.72.73:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS - 140.93
-trojan://telegram-id-privatevpns@13.37.31.160:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS - 165.08
-trojan://telegram-id-privatevpns@35.180.49.25:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS - 136.54
-trojan://telegram-id-directvpn@63.181.72.73:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS - 206.96
-trojan://telegram-id-directvpn@13.37.31.160:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS - 136.31
-trojan://telegram-id-directvpn@35.180.49.25:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS - 136.68
-trojan://5fbEkKmVOdAY 8_-@217.69.10.156:16288?security=tls&sni=sweetdream.sweetthunder.click&type=tcp#🇫🇷|@oneclickvpnkeys| AHS - 132.63
-trojan://dbq-xg26UXrhLA50236LzydDHgp2bn@94.103.169.70:8443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&fp=qq&security=tls&sni=chat.speedload.ru&type=tcp#🇩🇪|@oneclickvpnkeys| AHS - 136.07
-trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?headerType=none&security=tls&sni=kuame.missionsec.us&type=tcp#🇯🇵|@v2ray1_ng| AHS - 183.92
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🏴|@vmess_vless_v2rayng| AHS - 9.54
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?headerType=none&security=tls&sni=runningshoes.purpletornado.click&type=tcp#🇵🇱|@VmessProtocol| AHS - 161.89
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🏴|@ovpn2| AHS - 8.9
-trojan://eDHWaPzxcl@145.223.70.115:25365?fp=chrome&mode=gun&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&security=reality&sid=d9&sni=cloudflare.com&spx=%2F&type=grpc#🇫🇷|@v2rayngrit| AHS - 145.99
+trojan://telegram-id-privatevpns@63.181.72.73:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS - 115.58
+trojan://telegram-id-privatevpns@35.180.49.25:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS - 83.91
+trojan://telegram-id-directvpn@63.181.72.73:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS - 141.21
+trojan://telegram-id-directvpn@35.180.49.25:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS - 84.21
+trojan://5fbEkKmVOdAY 8_-@217.69.10.156:16288?security=tls&sni=sweetdream.sweetthunder.click&type=tcp#🇫🇷|@oneclickvpnkeys| AHS - 80.36
+trojan://dbq-xg26UXrhLA50236LzydDHgp2bn@94.103.169.70:8443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&fp=qq&security=tls&sni=chat.speedload.ru&type=tcp#🇩🇪|@oneclickvpnkeys| AHS - 88.46
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?headerType=none&security=tls&sni=kuame.missionsec.us&type=tcp#🇯🇵|@v2ray1_ng| AHS - 287.07
+trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🏴|@vmess_vless_v2rayng| AHS - 6.72
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?headerType=none&security=tls&sni=runningshoes.purpletornado.click&type=tcp#🇵🇱|@VmessProtocol| AHS - 109.77
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🏴|@ovpn2| AHS - 7.79
+trojan://01b69355-17c1-4298-9e00-a266946fd977@176.10.124.178:443?fp=randomized&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F176.10.124.178%3D443&security=tls&sni=joss.gpj.web.id&type=ws#🇨🇭|@ConfigsHUB| AHS - 96.54
+trojan://eDHWaPzxcl@145.223.70.115:25365?fp=chrome&mode=gun&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&security=reality&sid=d9&sni=cloudflare.com&spx=%2F&type=grpc#🇫🇷|@v2rayngrit| AHS - 91.19
