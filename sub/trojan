@@ -1,12 +1,10 @@
-trojan://telegram-id-privatevpns@52.57.0.56:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS - 138.88
-trojan://telegram-id-privatevpns@13.37.194.137:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS - 171.83
-trojan://telegram-id-privatevpns@13.38.194.86:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS - 191.76
-trojan://telegram-id-directvpn@52.57.0.56:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS - 135.3
-trojan://telegram-id-directvpn@13.37.194.137:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS - 203.04
-trojan://telegram-id-directvpn@13.38.194.86:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS - 131.97
-trojan://lTLVIqIvFqp es9giS.0o77ztLrCQLaxVh@172.105.9.126:443?fp=chrome#🇨🇦|@oneclickvpnkeys| AHS - 67.32
-trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&type=ws#🏴|@oneclickvpnkeys| AHS - 9.5
-trojan://humanity@104.19.229.21:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#🏴|@VmessProtocol| AHS - 8.41
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🏴|@ovpn2| AHS - 8.54
-trojan://humanity@185.18.250.252:443?allowInsecure=0&insecure=0&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🇨🇭|@v2rayngrit| AHS - 8.92
-trojan://6b7f37af-a853-4f01-a031-5fa4eca4f5bf@141.193.213.10:443?allowInsecure=0&host=ads.ruangguru.com.cyylr.eu.cc&insecure=0&path=%2Fin-do&security=tls&sni=ads.ruangguru.com.cyylr.eu.cc&type=ws#🇺🇸|@v2rayngrit| AHS - 9.19
+trojan://telegram-id-privatevpns@52.57.0.56:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS - 91.92
+trojan://telegram-id-privatevpns@13.37.194.137:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS - 119.97
+trojan://telegram-id-directvpn@52.57.0.56:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS - 91.49
+trojan://telegram-id-directvpn@13.37.194.137:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS - 150.54
+trojan://lTLVIqIvFqp es9giS.0o77ztLrCQLaxVh@172.105.9.126:443?fp=chrome#🇨🇦|@oneclickvpnkeys| AHS - 16.9
+trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&type=ws#🏴|@oneclickvpnkeys| AHS - 3.97
+trojan://humanity@104.19.229.21:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#🏴|@VmessProtocol| AHS - 2.47
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🏴|@ovpn2| AHS - 2.24
+trojan://humanity@185.18.250.252:443?allowInsecure=0&insecure=0&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🇨🇭|@v2rayngrit| AHS - 2.75
+trojan://6b7f37af-a853-4f01-a031-5fa4eca4f5bf@141.193.213.10:443?allowInsecure=0&host=ads.ruangguru.com.cyylr.eu.cc&insecure=0&path=%2Fin-do&security=tls&sni=ads.ruangguru.com.cyylr.eu.cc&type=ws#🇺🇸|@v2rayngrit| AHS - 2.52
